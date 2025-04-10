@@ -1,6 +1,6 @@
 # 📎 URL Shortener Backend
 
-**🌐 Frontend Live Site:** [https://ornate-clafoutis-1c2c08.netlify.app](https://ornate-clafoutis-1c2c08.netlify.app)
+**🌐Live Site:** [https://ornate-clafoutis-1c2c08.netlify.app](https://ornate-clafoutis-1c2c08.netlify.app)
 
 This is the backend service for a simple and efficient URL Shortener application. It provides RESTful APIs to create shortened URLs and redirect users to the original URLs.
 
