@@ -44,6 +44,9 @@ Check out the live application: [URL Shortener Demo](https://ornate-clafoutis-1c
    Url_Shortner_SB/
 
    
+
+```text
+Url_Shortner_SB/
 ├── frontend/               # React frontend
 │   ├── public/            # Static files
 │   ├── src/               # React source code
@@ -66,3 +69,12 @@ Check out the live application: [URL Shortener Demo](https://ornate-clafoutis-1c
 │   │   └── application.properties # Configuration
 │   └── pom.xml           # Backend dependencies
 └── README.md             # Project documentation
+## API Endpoints
+
+| Endpoint              | Method | Description                |
+|-----------------------|--------|----------------------------|
+| `/api/shorten`        | POST   | Create a short URL         |
+| `/api/urls`           | GET    | Get all URLs              |
+| `/api/urls/{id}`      | GET    | Get URL by ID             |
+| `/api/urls/{alias}`   | GET    | Get URL by alias          |
+| `/api/urls/{id}`      | DELETE | Delete a URL              |
