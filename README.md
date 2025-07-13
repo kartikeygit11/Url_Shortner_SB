@@ -41,3 +41,28 @@ Check out the live application: [URL Shortener Demo](https://ornate-clafoutis-1c
    ```bash
    git clone https://github.com/kartikeygit11/Url_Shortner_SB.git
    cd Url_Shortner_SB/frontend
+   Url_Shortner_SB/
+
+   
+├── frontend/               # React frontend
+│   ├── public/            # Static files
+│   ├── src/               # React source code
+│   │   ├── components/    # Reusable components
+│   │   ├── pages/         # Page components
+│   │   ├── services/      # API services
+│   │   ├── utils/        # Utility functions
+│   │   ├── App.js        # Main app component
+│   │   └── index.js      # Entry point
+│   └── package.json      # Frontend dependencies
+│
+├── backend/               # Spring Boot backend
+│   ├── src/main/java/     # Java source code
+│   │   ├── controller/    # REST controllers
+│   │   ├── model/         # Data models
+│   │   ├── repository/    # Data repositories
+│   │   ├── service/       # Business logic
+│   │   └── config/        # Configuration classes
+│   ├── src/main/resources # Resources
+│   │   └── application.properties # Configuration
+│   └── pom.xml           # Backend dependencies
+└── README.md             # Project documentation
