@@ -1,6 +1,6 @@
 # URL Shortener - A Full-Stack Application
 
-![URL Shortener](https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
+![URL Shortener](./Screenshot%202025-06-24%20041838.png)
 
 A modern URL shortener application built with React, Tailwind CSS, and Spring Boot that allows users to convert long URLs into shorter, more manageable links.
 
